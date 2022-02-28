@@ -14,7 +14,7 @@ Tapi juga ada secara nyata sebagai sebuah ancaman bagi perangkat komputer.
 Yang kamu gunakan untuk mengakses link ini.
 
 3. [IT-IS](https://cs.ui.ac.id/sarjana-ilmu-komputer/peminatan-sik-infrastruktur-keamanan/)<br>
-IT-IS (IT Infrastructure and Security) alias Infrastruktur dan Keamanan IT memang secara umum kalah pamor dengan Kecerdasan Buatan
+IT-IS (IT Infrastructure and Security) alias Infrastruktur dan Keamanan IT memang secara umum kalah pamor dengan Kecerdasan Buatan.
 Bahkan jika dibandingkan dengan Rekayasa Perangkat Lunak.
 Mau tahu lebih dalam mengenai peminatan yang underrated ini? 
 
