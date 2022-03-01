@@ -1,7 +1,8 @@
 ---
 permalink: /LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }} - stands for Muhammad Imam Chaidar Mujaddid Al-Ghiffari, better known as Imam / Chaidar / Adit</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.real_name }} </span>
+Biasa dipanggil Imam (umum), Chaidar (dokter, petugas administrasi), atau Adit (keluarga dan ibu kos)
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
