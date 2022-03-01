@@ -9,8 +9,8 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.real_name }}.
-Also simply known as Imam, Chaidar, or Adit
+This is {{ site.title }}. My real name is {{ site.real_name }}.
+Also simply known as Imam, Chaidar, or Adit.
 <br><br>
 
 <br>
