@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:pink; font-weight:bold; font-size:larger;">By {{ site.real_name }}</span>
+<span style="color:navy; font-weight:bold; font-size:larger;">By {{ site.real_name }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
@@ -9,9 +9,9 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-               This is {{ site.title }}. 
-         My real name is {{ site.real_name }}.
-                       Welcome!
+This is {{ site.title }}. 
+My real name is {{ site.real_name }}.
+Welcome!
 <br><br>
 
 <br>
