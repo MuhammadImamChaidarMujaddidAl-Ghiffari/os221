@@ -1,0 +1,11 @@
+version:     "002--01-Mar-2022"
+copyright:   "2022"
+author:      "MICMA"
+title:       "OS221: Operating Systems 2022-1"
+githublink:  "https://github.com/micma69/os221/"
+myloglink:   "/TXT/mylog.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
