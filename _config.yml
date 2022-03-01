@@ -9,5 +9,5 @@ markdown:    kramdown
 input:       GFM
 hard_wrap:   false
 github:      [metadata]
-real_nam:    "Muhammad Imam Chaidar Mujaddid Al-Ghiffari"
+real_name:    "Muhammad Imam Chaidar Mujaddid Al-Ghiffari"
 
