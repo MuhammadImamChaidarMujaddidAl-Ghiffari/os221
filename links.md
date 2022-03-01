@@ -28,4 +28,11 @@ IT-IS (IT Infrastructure and Security) alias Infrastruktur dan Keamanan IT meman
 Bahkan jika dibandingkan dengan Rekayasa Perangkat Lunak.
 Mau tahu lebih dalam mengenai peminatan yang underrated ini? 
 
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
+
+
 
