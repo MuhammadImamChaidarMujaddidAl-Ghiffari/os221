@@ -9,7 +9,7 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
+This is {{ site.title }} and I am {{ site.real_name }}.
 Also simply known as Imam, Chaidar, or Adit
 <br><br>
 
