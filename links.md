@@ -16,7 +16,7 @@ Biasa dipanggil Imam (umum), Chaidar (dokter, petugas administrasi), atau Adit (
 
 Hobi : Jalan-jalan, membaca, dan main game.
 
-Me Time : Senin-Kamis jam 17.00 - 18.30, dan jam 09.00 pagi - 08.30 pagi (keesokan paginya) untuk Jumat-Minggu dan hari libur.
+Me Time : Senin-Kamis jam 17.00 - 18.30, dan jam 09.00 pagi - 08.30 pagi (keesokan paginya) untuk Jumat-Minggu dan hari libur. 
 
 # LINKS
 
