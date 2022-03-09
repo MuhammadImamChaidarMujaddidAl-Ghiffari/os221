@@ -20,6 +20,8 @@ Me Time : Senin-Kamis jam 17.00 - 18.30, dan jam 09.00 pagi - 08.30 pagi (keesok
 
 # LINKS
 
+Week 02
+
 1. [TARBALL](https://en.wikipedia.org/wiki/Tar_(computing))<br>
 Informasi yang berguna seputar Tarball. 
 Jangan pernah memaknai Tarball secara harfiah jika tidak mau sesat.
@@ -33,6 +35,11 @@ Yang kamu gunakan untuk mengakses link ini.
 IT-IS (IT Infrastructure and Security) alias Infrastruktur dan Keamanan IT memang secara umum kalah pamor dengan Kecerdasan Buatan.
 Bahkan jika dibandingkan dengan Rekayasa Perangkat Lunak.
 Mau tahu lebih dalam mengenai peminatan yang underrated ini? 
+
+Week 03
+
+4. [Bahasa C](https://www.petanikode.com/c-untuk-pemula/)<br>
+Penasaran dengan bahasa pemrograman C yang sejak minggu 01 dibahas? Silahkan belajar sekilas tentang bahasa C di link ini!
 
 <br>
 <hr>
