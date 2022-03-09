@@ -24,4 +24,24 @@ ZCZC W02  11  L09 Github related
 ZCZC W02  47  L10 <Previous> Weekly Assignments
 ZCZC W02  6   L11 Github related
 ZCZC W02  152 L12 Weekly Assignments
-
+ZCZC W03  2   L00 General, etc
+ZCZC W03  11  L01 SCELE/Discord related
+ZCZC W03  6   L02 ZOOM meetings related
+ZCZC W03  18  L03 GSGS
+ZCZC W03  16  L04 General, etc
+ZCZC W03  4   L05 Checked SIAK
+ZCZC W03  3   L06 Checked VLSM
+ZCZC W03  6   L07 ZOOM meetings related
+ZCZC W03  3   L08 SCELE / Discord related
+ZCZC W03  2   L09 Checked SIAK
+ZCZC W03  3   L10 SCELE / Discord related
+ZCZC W03  4   L11 Visited VLSM
+ZCZC W03  15  L12 GSGS
+ZCZC W03  2   L13 Visited VLSM
+ZCZC W03  7   L14 Weekly Assignments
+ZCZC W03  3   L15 GSGS
+ZCZC W03  35  L16 Listened relaxing music(s)
+ZCZC W03  83  L17 ZOOM meetings related
+ZCZC W03  18  L18 QUIZ related
+ZCZC W03  15  L19 GSGS
+ZCZC W03  37  L20 Weekly Assignments
