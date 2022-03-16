@@ -45,3 +45,16 @@ ZCZC W03  83  L17 ZOOM meetings related
 ZCZC W03  18  L18 QUIZ related
 ZCZC W03  15  L19 GSGS
 ZCZC W03  37  L20 Weekly Assignments
+ZCZC W04  3   L00 Checked SCELE
+ZCZC W04  4   L01 Checked VLSM
+ZCZC W04  1   L02 Checked SCELE
+ZCZC W04  79  L03 ZOOM meetings related
+ZCZC W04  2   L04 SCELE related
+ZCZC W04  3   L05 Checked VLSM
+ZCZC W04  2   L06 Checked SCELE
+ZCZC W04  82  L07 ZOOM meetings related
+ZCZC W04  7   L08 Checked SCELE
+ZCZC W04  24  L09 QUIZ related
+ZCZC W04  3   L10 Checked SCELE
+ZCZC W04  2   L11 Checked VLSM
+ZCZC W04  27  L12 Weekly Assignments
