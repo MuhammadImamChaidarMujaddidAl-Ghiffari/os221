@@ -58,3 +58,15 @@ ZCZC W04  24  L09 QUIZ related
 ZCZC W04  3   L10 Checked SCELE
 ZCZC W04  2   L11 Checked VLSM
 ZCZC W04  27  L12 Weekly Assignments
+ZCZC W05  7   L00 SCELE Discord related
+ZCZC W05  83  L01 ZOOM meetings related
+ZCZC W05  12  L02 Googling
+ZCZC W05  4   L03 Checked VLSM
+ZCZC W05  2   L04 SCELE / Discord related
+ZCZC W05  81  L05 ZOOM meetings related
+ZCZC W05  24  L06 QUIZ
+ZCZC W05  3   L07 Googling
+ZCZC W05  7   L08 Checked VLSM
+ZCZC W05  4   L09 SCELE / Discord related
+ZCZC W05  2   L10 Checked SIAK
+ZCZC W05  34  L11 Weekly Assignments
