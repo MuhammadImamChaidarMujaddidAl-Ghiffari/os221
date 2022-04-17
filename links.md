@@ -38,8 +38,59 @@ Mau tahu lebih dalam mengenai peminatan yang underrated ini?
 
 Week 03
 
-4. [Bahasa C](https://www.petanikode.com/c-untuk-pemula/)<br>
+1. [Bahasa C](https://www.petanikode.com/c-untuk-pemula/)<br>
 Penasaran dengan bahasa pemrograman C yang sejak minggu 01 dibahas? Silahkan belajar sekilas tentang bahasa C di link ini!
+
+Week 04
+
+1. [Alokasi Memori](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+Bingung dengan materi alokasi memori? Silahkan klik linknya!
+2. [Makefile](https://opensource.com/article/18/8/what-how-makefile)<br>
+Hmmm, Makefile. Kedengarannya agak asing? Tapi yah kalau udah ngoding C pasti gak asing harusnya yah. Silahkan eksplor link diatas!
+3. [Koleksi Library milik Linux]()<br>
+Kalau kepo, jujur aja. Jangan malu-malu, langsung klik aja linknya.
+
+Week 05
+
+1. [Sekilas tentang memori virtual](https://www.geeksforgeeks.org/virtual-memory-in-operating-system)<br>
+Yah langsung aja klik.
+2. [Perbedaan memori virtual dan memori cache](https://www.geeksforgeeks.org/difference-between-virtual-memory-and-cache-memory/?ref=rp)<br>
+Mau memahami perbedaan antara memori virtual dan memori cache? Silahkan klik linknya!
+3. [Sekilas tentang kernel](https://www.geeksforgeeks.org/kernel-in-operating-system/)<br>
+Kernel. Hmmm. Yah udah, tunggu apa lagi? Langsung aja klik linknya!
+
+Week 06
+
+1. [Depresi](https://www.halodoc.com/kesehatan/depresi)<br>
+Stress dan depresi pasca UTS? Jangan biarkan permasalahan Anda berlarut-larut! Segera tangani, jangan dijadikan gaya hidup. Yuk klink linknya!
+2. [Hidup tenang dan bahagia](https://www.idntimes.com/life/inspiration/annisa-nur-fitriani-1/hidup-tenang-dan-bahagia-c1c2/5)<br>
+Setelah reda, ini adalah tips agar kalian tidak stress atau depresi lagi. Karena kita semua berhak untuk bahagia dan tenang apapun itu.
+3. [Sekilas tentang thread](https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
+Nantinya tentang "thread" bakal dibahas lagi di mata kuliah Pemrograman Lanjut. Jadi sebaiknya Anda mengklik link ini.
+
+Week 07
+
+- [Coming soon!]()<br>
+- [Coming soon!]()<br>
+- [Coming soon!]()<br>
+
+Week 08
+
+- [TBA]()<br>
+- [TBA]()<br>
+- [TBA]()<br>
+
+Week 09
+
+- [TBA]()<br>
+- [TBA]()<br>
+- [TBA]()<br>
+
+Week 10
+
+- [TBA]()<br>
+- [TBA]()<br>
+- [TBA]()<br>
 
 <br>
 <hr>
