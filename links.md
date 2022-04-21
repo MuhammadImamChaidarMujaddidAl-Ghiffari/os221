@@ -70,15 +70,18 @@ Nantinya tentang "thread" bakal dibahas lagi di mata kuliah Pemrograman Lanjut. 
 
 Week 07
 
-- [Coming soon!]()<br>
-- [Coming soon!]()<br>
-- [Coming soon!]()<br>
+- [Sekilas tentang Sinkronisasi](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Pada minggu kedelapan ini, kita mempelajari materi yang uniknya juga sempat disinggung pada Pemrograman Lanjut. Oke sudahilah lamunan kalian, mari belajar sinkronisasi di link ini!
+- [Sekilas tentang semafor](https://www.guru99.com/semaphore-in-operating-system.html)<br>
+Saya tidak sedang membahas kode-kodean khas Pramuka, pelaut, atau militer. Supaya gak salah paham, yuk klink linknya!
+- [Shreksophone Marathon 10 Jam](https://www.youtube.com/watch?v=pxw-5qfJ1dk)<br>
+Suka meme, jazz, piano, dan fantasi? Cobalah dengarkan masterpiece dari Shrek dan kudanya!
 
 Week 08
 
-- [TBA]()<br>
-- [TBA]()<br>
-- [TBA]()<br>
+- [Coming soon!]()<br>
+- [Coming soon!]()<br>
+- [Coming soon!]()<br>
 
 Week 09
 

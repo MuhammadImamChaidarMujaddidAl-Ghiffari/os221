@@ -87,3 +87,9 @@ ZCZC W06  4   L13 QUIZ 06-7
 ZCZC W06  72  L14 Weekly Assignments
 ZCZC W06  7   L15 QUIZ 06-6 
 ZCZC W06  8   L16 Weekly Assignments
+ZCZC W07  84  L00 ZOOM meetings related
+ZCZC W07  12  L01 SCELE / Discord related
+ZCZC W07  63  L02 ZOOM meetings related
+ZCZC W07  8   L03 Googling
+ZCZC W07  40  L04 QUIZ
+ZCZC W07  24  L05 Weekly Assignments
