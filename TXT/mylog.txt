@@ -94,4 +94,4 @@ ZCZC W07  8   L03 Googling
 ZCZC W07  40  L04 QUIZ
 ZCZC W07  24  L05 Weekly Assignments
 ZCZC W07  4   L06 Googling
-ZCZC W07  10  L07 Weekly Assignments
+ZCZC W07  121 L07 Weekly Assignments
