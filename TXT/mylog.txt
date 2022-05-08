@@ -95,3 +95,9 @@ ZCZC W07  40  L04 QUIZ
 ZCZC W07  24  L05 Weekly Assignments
 ZCZC W07  4   L06 Googling
 ZCZC W07  121 L07 Weekly Assignments
+ZCZC W08  64  L00 ZOOM meetings related
+ZCZC W08  5   L01 SCELE / Discord related
+ZCZC W08  91  L02 ZOOM meetings related
+ZCZC W08  24  L03 QUIZ
+ZCZC W08  3   L04 Visited VLSM
+ZCZC W08  16  L05 Weekly Assignments #2
