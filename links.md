@@ -79,15 +79,18 @@ Suka meme, jazz, piano, dan fantasi? Cobalah dengarkan masterpiece dari Shrek da
 
 Week 08
 
-- [Coming soon!]()<br>
-- [Coming soon!]()<br>
-- [Coming soon!]()<br>
+- [Sekilas tentang Scheduling CPU](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/?ref=lbp)<br>
+Tak terasa sekarang sudah minggu kesembilan! Materi yang satu ini sayang banget kalau dilewatkan sih.
+- [Sekilas tentang Scheduling Multiprosesor](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+Bisa ditebak dari nama istilahnya saja, pasti Multiprocessor Scheduling jauh lebih kompleks dari yang single. Penasaran gak? Klik aja langsung linknya! Puaskanlah rasa ingin tahu Anda!
+- [Potsu - bossa uh](https://www.youtube.com/watch?v=FSnuF1FPSIU)<br>
+Yup, mengerjakan tugas kurang lengkap kalau gak sambil denger musik. Asal musik yang tidak terlalu "ramai". Misalnya lagu yang hanya terkenal di para pecinta Lo-Fi ini. 
 
 Week 09
 
-- [TBA]()<br>
-- [TBA]()<br>
-- [TBA]()<br>
+- [Coming soon!]()<br>
+- [Coming soon!]()<br>
+- [Coming soon!]()<br>
 
 Week 10
 
