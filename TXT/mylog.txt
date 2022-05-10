@@ -1,16 +1,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
+
 ZCZC W00  20  L00 General, etc.
 ZCZC W00  20  L01 SCELE/Discord related
 ZCZC W00  90  L02 ZOOM meetings related
 ZCZC W00  10  L03 QUIZ
 ZCZC W00  60  L04 Weekly Assignments
+
 ZCZC W01  4   L01 SCELE/Discord related
 ZCZC W01  89  L02 ZOOM meetings related
 ZCZC W01  10  L03 QUIZ
 ZCZC W01  200 L04 Weekly Assignments
 ZCZC W01  19  L05 Github related
+
 ZCZC W02  14  L00 General, etc.
 ZCZC W02  12  L01 SCELE/Discord related
 ZCZC W02  94  L02 ZOOM meetings related
@@ -24,6 +27,7 @@ ZCZC W02  11  L09 Github related
 ZCZC W02  47  L10 <Previous> Weekly Assignments
 ZCZC W02  6   L11 Github related
 ZCZC W02  152 L12 Weekly Assignments
+
 ZCZC W03  2   L00 General, etc
 ZCZC W03  11  L01 SCELE/Discord related
 ZCZC W03  6   L02 ZOOM meetings related
@@ -45,6 +49,7 @@ ZCZC W03  83  L17 ZOOM meetings related
 ZCZC W03  18  L18 QUIZ related
 ZCZC W03  15  L19 GSGS
 ZCZC W03  37  L20 Weekly Assignments
+
 ZCZC W04  3   L00 Checked SCELE
 ZCZC W04  4   L01 Checked VLSM
 ZCZC W04  1   L02 Checked SCELE
@@ -58,6 +63,7 @@ ZCZC W04  24  L09 QUIZ related
 ZCZC W04  3   L10 Checked SCELE
 ZCZC W04  2   L11 Checked VLSM
 ZCZC W04  27  L12 Weekly Assignments
+
 ZCZC W05  7   L00 SCELE Discord related
 ZCZC W05  83  L01 ZOOM meetings related
 ZCZC W05  12  L02 Googling
@@ -70,6 +76,7 @@ ZCZC W05  7   L08 Checked VLSM
 ZCZC W05  4   L09 SCELE / Discord related
 ZCZC W05  2   L10 Checked SIAK
 ZCZC W05  34  L11 Weekly Assignments
+
 ZCZC W06  4   L00 SCELE / Discord related
 ZCZC W06  9   L01 QUIZ 06-1
 ZCZC W06  11  L02 QUIZ 06-2
@@ -87,6 +94,7 @@ ZCZC W06  4   L13 QUIZ 06-7
 ZCZC W06  72  L14 Weekly Assignments
 ZCZC W06  7   L15 QUIZ 06-6 
 ZCZC W06  8   L16 Weekly Assignments
+
 ZCZC W07  84  L00 ZOOM meetings related
 ZCZC W07  12  L01 SCELE / Discord related
 ZCZC W07  63  L02 ZOOM meetings related
@@ -95,11 +103,13 @@ ZCZC W07  40  L04 QUIZ
 ZCZC W07  24  L05 Weekly Assignments
 ZCZC W07  4   L06 Googling
 ZCZC W07  121 L07 Weekly Assignments
+
 ZCZC W08  64  L00 ZOOM meetings related
 ZCZC W08  5   L01 SCELE / Discord related
 ZCZC W08  91  L02 ZOOM meetings related
 ZCZC W08  24  L03 QUIZ
 ZCZC W08  3   L04 Visited VLSM
 ZCZC W08  16  L05 Weekly Assignments #2
+
 ZCZC W09  7   L00 Weekly Assignments 
-ZCZC W09  90  L01 ZOOM meetings related
+ZCZC W09  89  L01 ZOOM meetings related
