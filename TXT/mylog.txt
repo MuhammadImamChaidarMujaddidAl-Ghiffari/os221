@@ -101,3 +101,5 @@ ZCZC W08  91  L02 ZOOM meetings related
 ZCZC W08  24  L03 QUIZ
 ZCZC W08  3   L04 Visited VLSM
 ZCZC W08  16  L05 Weekly Assignments #2
+ZCZC W09  7   L00 Weekly Assignments 
+ZCZC W09  90  L01 ZOOM meetings related

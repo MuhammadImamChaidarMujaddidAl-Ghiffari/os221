@@ -88,15 +88,22 @@ Yup, mengerjakan tugas kurang lengkap kalau gak sambil denger musik. Asal musik 
 
 Week 09
 
-- [Coming soon!]()<br>
-- [Coming soon!]()<br>
-- [Coming soon!]()<br>
+- [Sekilas tentang Storage Area Networks](https://www.tutorialspoint.com/Storage-Area-Networks)<br>
+Untuk mengakses penyimpanan data, kita memerlukan SAN. Yuk langsung aja klik linknya untuk belajar lebih lanjut!
+- [Sekilas tentang Firmware](https://accurate.id/teknologi/firmware-adalah/)<br>
+Firmware terintegrasi dengan setiap hardware di sebuah komputer. Penasaran? Yuk klik aja linknya!
+- [Sekilas tentang Bootloader](https://www.monitorteknologi.com/apa-itu-bootloader/)<br>
+Coba nyalakan sebuah komputer. Si komputer langsung menjalankan OS-nya. Penasaran gimana caranya? Buka link ini hehe.
+- [Sekilas tentang Systemd](https://systemd.io/)<br>
+Yup, systemd adalah salah satu keunikan Linux. Lebih baik kita belajar systemd langsung dari situs resminya sekarang!
+- [Frédéric Chopin - Nocturne op.9 No.2](https://www.youtube.com/watch?v=9E6b3swbnWg)<br>
+Salah satu karya terbesar Fryderyk Franciszek Chopin. Cocok didengarkan saat begadang hingga dini hari.
 
 Week 10
 
-- [TBA]()<br>
-- [TBA]()<br>
-- [TBA]()<br>
+- [Coming soon!]()<br>
+- [Coming soon!]()<br>
+- [Coming soon!]()<br>
 
 <br>
 <hr>
