@@ -101,9 +101,33 @@ Salah satu karya terbesar Fryderyk Franciszek Chopin. Cocok didengarkan saat beg
 
 Week 10
 
-- [Coming soon!]()<br>
-- [Coming soon!]()<br>
-- [Coming soon!]()<br>
+- [Sekilas mengenai I/O software](https://www.tutorialspoint.com/operating_system/os_io_software.htm)<br>
+Ahhh. Minggu terakhir. Dan juga sub-materi pertama dari yang terakhir. Puaskan saja rasa ingin tahumu dengan mengklik link diatas!
+- [Sekilas mengenai I/O hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
+Selain software, ada juga hardware-nya. Kepo? Klik aja linknya yah. 
+- [Sekilas mengenai interface I/O](https://www.geeksforgeeks.org/applications-of-input-output-interface/)
+Sesuatu yang sangat dibutuhkan oleh CPU ketika ingin berkomunikasi dengan berbagai perangkat I/O. Link diatas itu buat memuaskan rasa ingin tahu Anda.
+- [Sekilas mengenai Network Programming System](https://www.geeksforgeeks.org/what-is-a-network-operating-system/)<br>
+Akhirnya kita sudah mencapai materi paling akhir di mata kuliah Operating System ini. Ingat waktu pertama kalinya kamu berjam-jam mengatur konfigurasi VM kamu saat minggu pertama dan kedua? Sekarang sudah saatnya kita bye-bye!
+- [Joe Hisashi - The Wind Rises Suite No.2 - A Kingdom of Dreams](https://www.youtube.com/watch?v=S8V8RiOI62I)<br>
+Ingat waktu pertama kalinya kamu berjam-jam mengatur konfigurasi VM kamu saat minggu pertama dan kedua? Saat membuat sistem operasi sendiri pada minggu ke-8, 9, dan 10 ? Sekarang sudah saatnya kamu beranjak ke mata kuliah yang levelnya lebih tinggi. Ini bukan akhir perjuanganmu. Masih banyak rintangan yang akan menantimu. Baik sebelum dan sesudah kamu lulus dari Fasilkom. Jika kamu serius, aku yakin kamu pasti bakal sukses meraih impianmu. Terimakasih sudah mengikuti mata kuliah ini, dan terimakasih juga sudah mengakses link-link aku! 
+
+Untuk mahasiswa dan mahasiswa peserta OS :
+
+Dengan impian, kamu bisa memiliki harapan.
+Dengan harapan, kamu bisa memiliki tekad.
+Dengan tekad, kamu bisa memiliki ketekunan.
+Dengan ketekunan, kamu bisa meraih impianmu.
+Dengan meraih impianmu, kamu bisa mewujudkan harapanmu.
+
+Salam,
+micma69
+
+
+Link Media Sosial micma69 :
+
+- [Instagram](https://www.instagram.com/muhammadimam295/)
+
 
 <br>
 <hr>
