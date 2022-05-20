@@ -18,6 +18,8 @@ Hobi : Jalan-jalan, membaca, dan main game.
 
 Me Time : Senin-Kamis jam 17.00 - 18.30, dan jam 09.00 pagi - 08.30 pagi (keesokan paginya) untuk Jumat-Minggu dan hari libur. 
 
+Media sosial : [Instagram](https://www.instagram.com/muhammadimam295/)
+
 # LINKS
 
 Week 02
@@ -112,7 +114,8 @@ Akhirnya kita sudah mencapai materi paling akhir di mata kuliah Operating System
 - [Joe Hisashi - The Wind Rises Suite No.2 - A Kingdom of Dreams](https://www.youtube.com/watch?v=S8V8RiOI62I)<br>
 Ingat waktu pertama kalinya kamu berjam-jam mengatur konfigurasi VM kamu saat minggu pertama dan kedua? Saat membuat sistem operasi sendiri pada minggu ke-8, 9, dan 10 ? Sekarang sudah saatnya kamu beranjak ke mata kuliah yang levelnya lebih tinggi. Ini bukan akhir perjuanganmu. Masih banyak rintangan yang akan menantimu. Baik sebelum dan sesudah kamu lulus dari Fasilkom. Jika kamu serius, aku yakin kamu pasti bakal sukses meraih impianmu. Terimakasih sudah mengikuti mata kuliah ini, dan terimakasih juga sudah mengakses link-link aku! 
 
-Untuk mahasiswa dan mahasiswa peserta OS :
+
+Untuk mahasiswa dan mahasiswi peserta OS :
 
 Dengan impian, kamu bisa memiliki harapan.
 Dengan harapan, kamu bisa memiliki tekad.
@@ -122,11 +125,6 @@ Dengan meraih impianmu, kamu bisa mewujudkan harapanmu.
 
 Salam,
 micma69
-
-
-Link Media Sosial micma69 :
-
-- [Instagram](https://www.instagram.com/muhammadimam295/)
 
 
 <br>
